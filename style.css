@@ -9,3 +9,24 @@
     min-height: 100vh;
     background-color: salmon;
 }
+.arsenii{
+    background-color: red;
+    min-height: 100vh;
+}
+.section {
+    min-height: 100vh;
+    background-color: cyan;
+}
+.yaro{
+    min-height:100vh;
+    background-color: cyan;
+}
+header {
+  background-color: blue;
+  height: 200px;
+}
+.blue_section{
+    background-color: blue;
+    min-height: 100vh;
+}
+
