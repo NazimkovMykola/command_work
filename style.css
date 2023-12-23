@@ -4,8 +4,13 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-
+header {
+  background-color: blue;
+  height: 200px;
+}
 .blue_section{
     background-color: blue;
     min-height: 100vh;
 }
+
+
