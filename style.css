@@ -4,7 +4,10 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
-
+.ruden-sect {
+    min-height: 100vh;
+    background-color: tomato;
+}
 .new-section {
     min-height: 100vh;
     background-color: salmon;
