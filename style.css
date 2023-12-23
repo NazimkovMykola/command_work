@@ -4,6 +4,10 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+.yaro{
+    min-height:100vh;
+    background-color: cyan;
+}
 header {
   background-color: blue;
   height: 200px;
@@ -12,5 +16,4 @@ header {
     background-color: blue;
     min-height: 100vh;
 }
-
 
