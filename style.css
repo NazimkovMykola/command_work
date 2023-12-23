@@ -4,6 +4,10 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+.Mykola {
+    min-height: 100vh;
+    background-color: rgb(164, 188, 88);
+}
 .ruden-sect {
     min-height: 100vh;
     background-color: tomato;
