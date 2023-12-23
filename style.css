@@ -4,6 +4,10 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+.section {
+    min-height: 100vh;
+    background-color: cyan;
+}
 .yaro{
     min-height:100vh;
     background-color: cyan;
