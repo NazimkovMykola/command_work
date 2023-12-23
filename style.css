@@ -4,6 +4,11 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+
+.new-section {
+    min-height: 100vh;
+    background-color: salmon;
+}
 .arsenii{
     background-color: red;
     min-height: 100vh;
